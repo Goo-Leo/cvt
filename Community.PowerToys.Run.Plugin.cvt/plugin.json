@@ -1,0 +1,14 @@
+{
+  "ID": "2F9FD69EAE55433D84BE40C775C5ACE3",
+  "ActionKeyword": "cvt",
+  "IsGlobal": false,
+  "Name": "cvt",
+  "Author": "hlaueriksson",
+  "Version": "0.86.0",
+  "Language": "csharp",
+  "Website": "https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.cvt",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.cvt.dll",
+  "IcoPathDark": "Images\\cvt.dark.png",
+  "IcoPathLight": "Images\\cvt.light.png",
+  "DynamicLoading": false
+}
